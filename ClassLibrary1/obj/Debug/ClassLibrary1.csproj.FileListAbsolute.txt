@@ -1,0 +1,14 @@
+D:\BIT31_PALIZA\ACT9_Paliza\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\BIT31_PALIZA\ACT9_Paliza\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\BIT31_PALIZA\ACT9_Paliza\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+D:\BIT31_PALIZA\ACT9_Paliza\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\BIT31_PALIZA\ACT9_Paliza\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\MC\PROGRAMLORD\ASP\ACT9_Paliza\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\MC\PROGRAMLORD\ASP\ACT9_Paliza\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\MC\PROGRAMLORD\ASP\ACT9_Paliza\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+D:\MC\PROGRAMLORD\ASP\ACT9_Paliza\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\MC\PROGRAMLORD\ASP\ACT9_Paliza\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\MC\Programs\ASP\ACT9_Paliza\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\MC\Programs\ASP\ACT9_Paliza\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\MC\Programs\ASP\ACT9_Paliza\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\MC\Programs\ASP\ACT9_Paliza\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
