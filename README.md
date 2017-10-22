@@ -1,3 +1,3 @@
-# Sample-Activity
+# Sample Activity
 
-Activity from school
+School Activity for ASP
